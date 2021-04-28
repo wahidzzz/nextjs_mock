@@ -1,2 +1,2 @@
 console.log("ptasg")
-console.log("flrth")
+console.log("avghs")
