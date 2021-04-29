@@ -1,3 +1,3 @@
 console.log("ptasg")
 console.log("musym")
-console.log("avsco")
+console.log("fampu")
