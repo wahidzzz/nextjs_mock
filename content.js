@@ -1,3 +1,3 @@
 console.log("ptasg")
 console.log("musym")
-console.log("muibu")
+console.log("sinjh")
